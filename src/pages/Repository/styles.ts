@@ -13,6 +13,7 @@ export const RepositoryData = styled(motion.section)`
   header {
     display: flex;
     align-items: center;
+    width: 100%;
 
     img {
       width: 120px;
