@@ -1,44 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Be The Hero" title="Be The Hero" src="src/assets/logo.svg" width="200px" />
+</h1>
 
-## Available Scripts
+<p align="center">
+  <a href="#question-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-techs">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#heavy_plus_sign-extra-todos">Extra features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-setting-up-and-running-the-app">Running the app</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+  <a href="#memo-license">License</a>
+</p>
 
-In the project directory, you can run:
+<br>
 
-### `yarn start`
+<p align="center">
+  <img alt="GitHub Explorer View" src=".github/screens.png" width="100%">
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :question: About
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Search for a GitHub repository and get details about it, like owner, stars and its issues list.
 
-### `yarn test`
+## :rocket: Techs
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project was developed with the following technologies:
 
-### `yarn build`
+- [React](https://reactjs.org)
+- [Styled Components](https://styled-components.com/)
+- [Framer Motion](https://www.framer.com/)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The following tools were used to maintain code format and style:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [EditorConfig](https://editorconfig.org/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :heavy_plus_sign: Extra features
 
-### `yarn eject`
+- Dark/Light theme switch
+- Component animations with Framer Motion
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## :wrench: Setting up and running the app
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- `yarn` to install the dependencies
+- `yarn start` to start the app
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## :memo: License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This project is under MIT license. Read [LICENSE](LICENSE.md) file for more details.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Developed with ♥ by Maurício Cantú. 2020.
