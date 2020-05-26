@@ -13,12 +13,14 @@
 <br>
 
 <p align="center">
-  <img alt="GitHub Explorer View" src=".github/screen.png" width="100%">
+  <img alt="GitHub Explorer View" src=".github/screen.png" height="75%" width="75%">
 </p>
 
 ## :question: About
 
-Search for a GitHub repository and get details about it, like owner, stars and its issues list.
+Search for a GitHub repository and get details about it, like owner, stars and its issues list. Developed on [Rocketseat](https://rocketseat.com.br/) GoStack Bootcamp.
+
+The app is live on [Netlify](https://netlify.app/) (https://github-exp.netlify.app/).
 
 ## :rocket: Techs
 
@@ -51,4 +53,4 @@ This project is under MIT license. Read [LICENSE](LICENSE.md) file for more deta
 
 ---
 
-Developed with ♥ by Maurício Cantú. 2020.
+Developed with ♥ by Maurício Cantú. Find me on my [LinkedIn](https://www.linkedin.com/in/mauriciocantu/).
