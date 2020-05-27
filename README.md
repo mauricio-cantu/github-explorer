@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 - [ReactJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
-- [Framer Motion](https://www.framer.com/)
+- [Framer Motion](https://www.framer.com/motion/)
 
 The following tools were used to maintain code formatting and style:
 
